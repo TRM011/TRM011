@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TRM011
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...C programme 
-- 💞️ I’m looking to collaborate on ....Multiple project based on C language  
+- 🌱 I’m currently learning ...C programme ,JAVA
+- 💞️ I’m looking to collaborate on ....Multiple project based on C language ,JAVA
 - 📫 How to reach me ....Email : tasmimrahman86@gmail.com
 
 <!---
